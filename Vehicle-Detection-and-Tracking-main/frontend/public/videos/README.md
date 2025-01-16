@@ -1,1 +1,0 @@
-## This folder contains the video file that is to be displayed.
