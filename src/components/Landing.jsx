@@ -14,7 +14,7 @@ export default function Landing() {
             <h2 className='text-4xl text-white mb-4'>Counting</h2>
             {/* <div className='w-2/3 mt-[6px] mb-[30px]'> */}
               <p className='text-white text-[12px] w-2/3'>
-                Ever wished you could monitor your property or fleet of vehicles with eagle-eyed accuracy? Look no further! 
+           6     Ever wished you could monitor your property or fleet of vehicles with eagle-eyed accuracy? Look no further! 
                 This web application leverages the power of YOLO (You Only Look Once) to detect and track vehicles,
                 providing you with invaluable insights and security.
               </p>
